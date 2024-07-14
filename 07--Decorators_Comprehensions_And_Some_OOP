@@ -1,0 +1,1 @@
+The most compelling ideas during the lecture for Week 7: Decorators, Comprehensions, Dicts, and some OOP were about constructing an extremely large number of objects with custom data from a database. Efrain Olivares suggested having each object load its data from the database. I suggested having a data loader object that constructed other objects to save calls to the database.
