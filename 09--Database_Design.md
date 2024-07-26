@@ -1,0 +1,1 @@
+Rod Stephen's Beginning Database Design Solutions is the funniest textbook I have ever read. I laughed outloud, especially at "Chapter 4: Understanding User Needs", which was quirky and cynical. Rod Stephen's humor reminds me of Jon Kropko's humor.
